@@ -32,7 +32,7 @@
     "lodash": "4.17.21",
     "patch-package": "6.4.7",
     "postinstall-postinstall": "2.1.0",
-    "workbox-build": "4.3.1"
+    "workbox-build": "6.1.5"
   },
   "devDependencies": {
     "@types/jest": "26.0.22",
