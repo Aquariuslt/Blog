@@ -27,7 +27,7 @@
     "date-fns": "2.21.1",
     "lodash": "4.17.21",
     "path-to-regexp": "6.2.0",
-    "sitemap": "5.1.0",
+    "sitemap": "7.0.0",
     "uslug": "1.0.4"
   },
   "devDependencies": {
