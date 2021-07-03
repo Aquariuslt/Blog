@@ -26,7 +26,7 @@
     "highlight.js": "10.7.3",
     "lodash": "4.17.21",
     "markdown-it": "12.0.3",
-    "markdown-it-anchor": "6.0.1",
+    "markdown-it-anchor": "8.1.0",
     "mkdirp": "1.0.4",
     "rimraf": "3.0.2",
     "sharp": "0.28.3",
